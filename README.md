@@ -1,3 +1,3 @@
 # Getting_into_business
 
-This is the readme file for my DS 201 Capstone Deliverable: Getting into Business. 
+This is the readme file for my DS 201 Capstone Deliverable: Getting into Business. This is due on February 28th. 
